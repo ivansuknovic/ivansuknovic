@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivansuknovic
 - 👀 I’m interested in learning new things, experimenting with different technologies, etc.
-- 🌱 I’m currently learning Flutter, Laravel, Vue.js.
+- 🌱 I’m currently learning and working with Symfony, React.js and Flutter.
 - 📫 How to reach me? I bet you can find me on Linkedin or some other social platform.
 
 
