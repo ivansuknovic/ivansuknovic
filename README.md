@@ -1,4 +1,1 @@
 - 👋 Hi, I’m @ivansuknovic
-- 🌱 I’m currently working as a full-time PHP/Symfony developer and in my free time, I'm tinkering with Next/React/ts/js, Python/Flask/FastAPI, and Dart/Flutter.
-- 👀 I’m interested in learning new things, experimenting with different technologies, etc.
-- 📫 How to reach me? I bet you can find me on Linkedin or some other social platform.
